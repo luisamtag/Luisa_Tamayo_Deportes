@@ -1,0 +1,15 @@
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\bin\Debug\net9.0\ConsolaDep.exe
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\bin\Debug\net9.0\ConsolaDep.deps.json
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\bin\Debug\net9.0\ConsolaDep.runtimeconfig.json
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\bin\Debug\net9.0\ConsolaDep.dll
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\bin\Debug\net9.0\ConsolaDep.pdb
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\obj\Debug\net9.0\ConsolaDep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\obj\Debug\net9.0\ConsolaDep.AssemblyInfoInputs.cache
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\obj\Debug\net9.0\ConsolaDep.AssemblyInfo.cs
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\obj\Debug\net9.0\ConsolaDep.csproj.CoreCompileInputs.cache
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\obj\Debug\net9.0\ConsolaDep.sourcelink.json
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\obj\Debug\net9.0\ConsolaDep.dll
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\obj\Debug\net9.0\refint\ConsolaDep.dll
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\obj\Debug\net9.0\ConsolaDep.pdb
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\obj\Debug\net9.0\ConsolaDep.genruntimeconfig.cache
+C:\Users\Lui\Desktop\Luisa_Tamayo_Deportes\ConsolaDep\obj\Debug\net9.0\ref\ConsolaDep.dll
